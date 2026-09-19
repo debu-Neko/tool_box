@@ -2,6 +2,8 @@ build/
 out/
 .vs/
 .vscode/
+!.vscode/c_cpp_properties.json
+!.vscode/settings.json
 *.exe
 *.pdb
 *.ilk

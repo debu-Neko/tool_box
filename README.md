@@ -88,7 +88,7 @@ cmake --build --preset release
 
 ### In progress
 
-- [ ] **`hash <file> --algo sha256 --json`** — 计算文件校验和
+- [x] **`hash <file> --algo sha256 --json`** — 计算文件校验和
 
 ### Planned
 
