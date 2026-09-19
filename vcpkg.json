@@ -1,0 +1,8 @@
+{
+  "name": "tool-box",
+  "version": "0.1.0",
+  "dependencies": [
+    "cli11",
+    "fmt"
+  ]
+}
